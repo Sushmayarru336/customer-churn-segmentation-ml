@@ -117,6 +117,11 @@ PCA-based 2D projection of customer segments:
 
 ---
 
+## Future Scope:
+Integrating LLMs to auto-generate personalized retention recommendations based on churn probability and customer segment.
+
+---
+
 ## 👤 Author
 
 Sushma Yarru  
